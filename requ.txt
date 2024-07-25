@@ -1,0 +1,5 @@
+NumPy==1.26.4
+Pandas==2.1.4
+Streamlit==1.30.0
+Scikit-learn==1.2.2
+Pip version==23.3.1
